@@ -1,4 +1,4 @@
-# https://mindr17.github.io/iphone13/
+# https://raznalits.github.io/linkcock/
 
 ## Development:
 ```
